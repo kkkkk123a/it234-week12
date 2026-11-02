@@ -1,5 +1,5 @@
 {
-  "shopName": "ร้านกาแฟของฉัน",
+  "shopName": "ชาโบราณคิดเมื่อวานโบราณไว้ก่อน🍀",
   "owner": "ชื่อนักศึกษา",
   "studentId": "6XXXXXXXXX",
   "ownerPhone": "081-234-5678",
@@ -16,7 +16,7 @@
       "id": 2,
       "name": "ชาไทย",
       "price": 45,
-      "emoji": "🧋",
+      "emoji": "🍹",
       "available": true,
       "tags": ["ชา", "เย็น", "ขายดี"]
     },
@@ -27,6 +27,13 @@
       "emoji": "🥐",
       "available": false,
       "tags": ["เบเกอรี่"]
-    }
+    },
+    {
+      "id": 4,
+      "name" : "เก๊กฮวย",
+      "price": 85,
+      "emoji": "🥃",
+      "available": true,
+      "tags": ["ชา","ขายดี"]
   ]
 }
